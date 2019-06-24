@@ -1,2 +1,2 @@
-str=input()
-print(str[::-1])
+jes=input()
+print(jes[::-1])
