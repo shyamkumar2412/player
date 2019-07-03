@@ -1,3 +1,4 @@
+n=int(input())
 a=input().split()
 z=[]
 for i in a:
