@@ -1,7 +1,7 @@
-n=int(input())
-while n>1:
-    n=n%2
-if n==0:
+s=int(input())
+while s>1:
+    s=s%2
+if s==0:
     print('yes')
 else:
     print('no')
