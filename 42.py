@@ -1,7 +1,7 @@
-n=int(input())
-n=input().split()
-sorted(n)
-if n==sorted(n):
+s=int(input())
+s=input().split()
+sorted(s)
+if s==sorted(s):
     print('yes')
 else:
     print('no')
