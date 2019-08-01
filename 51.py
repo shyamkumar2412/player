@@ -1,5 +1,5 @@
-n=int(input())
-n=input().split()
-n.sort()
-print(n[1])
+s=int(input())
+s=input().split()
+s.sort()
+print(s[1])
 
