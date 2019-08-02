@@ -3,5 +3,5 @@ c=0
 for i in s:
     c=c+1
     if t==i:
-        print(c-1)
+        print(c)
         break
