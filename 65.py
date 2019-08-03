@@ -1,6 +1,5 @@
 n1=int(input())
 n=list(map(int,input().split()))
-print(n)
 l=[]
 m=[]
 for i in n:
