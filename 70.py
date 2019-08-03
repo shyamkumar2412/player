@@ -1,2 +1,2 @@
-n=input()
-print(n+' '+'Answer')
+shy=input()
+print(shy+' '+'Answer')
