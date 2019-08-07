@@ -1,3 +1,3 @@
-n=int(input())
-n=input().split()
-print(max(n))
+y=int(input())
+y=input().split()
+print(max(y))
